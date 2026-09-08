@@ -8,7 +8,7 @@ $ me@erick-garcia.com: ~/./path/to/my/introduction/introduction.sh &> stdout
 
 # Greetings mortal  ( ꈍᴗꈍ)❣️
 
-Hello my name is [@garciaErick](https://github.com/garciaErick).
+Hello my name is [@tsunderick](https://github.com/tsunderick).
 
 * [x] Graduate with a Ms in Software Engineering;
 * [x] Currently working for Amazon and living in Seattle
