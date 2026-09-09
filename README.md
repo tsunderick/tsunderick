@@ -4,7 +4,7 @@
   <img src="assets/terminal.svg" width="720" alt="terminal session: ./introduction.sh --pretty" />
 </p>
 
-<h2 align="center">Greetings Mortal( ꈍᴗꈍ)❣️</h2>
+<h2 align="center">( ꈍᴗꈍ)❣️ Greetings Mortal</h2>
 
 - [x] Graduated with an MSc in Software Engineering
 - [ ] Opening my indie game dev studio [Ashfall](https://ashfallsoftware.com) — currently building our first video game ⚔️
@@ -18,7 +18,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">Languages I Write</h2>
+<h2 align="center">🖱️ Languages I Write</h2>
 
 
 <!-- ✿ languages:start ✿ -->
@@ -42,7 +42,8 @@
 </div>
 <!-- ✿ languages:end ✿ -->
 
-## 📫 Ping Me
+<h2 align="center">📫 Ping Me</h2>
+
 
 <p align="center">
   <a href="https://erick-garcia.com/"><img src="https://img.shields.io/badge/🌸_Portfolio-erick--garcia.com-ff8fb1?style=for-the-badge&labelColor=000000" alt="Portfolio" /></a>
