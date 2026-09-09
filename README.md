@@ -1,8 +1,10 @@
+<h1 align="center">🧉 Keep it Simple</h1>
+
 <p align="center">
   <img src="assets/terminal.svg" width="720" alt="terminal session: ./introduction.sh --pretty" />
 </p>
 
-<h1 align="center">Keep it Simple&nbsp; ( ꈍᴗꈍ)❣️</h1>
+<h2 align="center">Greetings Mortal( ꈍᴗꈍ)❣️</h2>
 
 - [x] Graduated with an MSc in Software Engineering
 - [ ] Opening my indie game dev studio [Ashfall](https://ashfallsoftware.com) — currently building our first video game ⚔️
