@@ -24,6 +24,8 @@
 
 <!-- ✿ auto-generated nightly by the stats workflow (lines of code across my repos) — hands off, mortal ✿ -->
 
+<div align="center">
+
 |    | Language | Lines of code | Share |
 |:--:|:---------|----------:|:------|
 | 🥇 | Rust | 43.7K | 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸 55.1% |
@@ -35,6 +37,8 @@
 | 🌸 | Kotlin | 1.5K | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.9% |
 | 🌸 | Haskell | 1.2K | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.5% |
 |    | other 🌱 | 3.1K | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.9% |
+
+</div>
 <!-- ✿ languages:end ✿ -->
 
 ## 📫 Ping Me
