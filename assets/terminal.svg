@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="464" viewBox="0 0 760 464" role="img">
+  <title>terminal session: ./introduction.sh --pretty</title>
+
+  <!-- window chrome -->
+  <rect x="1" y="1" width="758" height="462" rx="14" fill="#000000" stroke="#da9fdc" stroke-opacity="0.55" stroke-width="1.5"/>
+  <line x1="16" y1="48" x2="744" y2="48" stroke="#626583" stroke-opacity="0.35" stroke-width="1"/>
+
+  <!-- traffic lights (vector, no glyph risk) -->
+  <circle cx="24" cy="24" r="5.5" fill="#ff5c8a"/>
+  <circle cx="44" cy="24" r="5.5" fill="#ffc6d4"/>
+  <circle cx="64" cy="24" r="5.5" fill="#dcc1eb"/>
+
+  <!-- title -->
+  <text x="380" y="29" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" letter-spacing="1.5" fill="#da9fdc">x@tsunderick.space — zsh</text>
+
+  <!-- little vector sakura, title bar right -->
+  <g transform="translate(716,24)">
+    <g fill="#ff8fb1">
+      <ellipse cx="0" cy="-6" rx="3" ry="6"/>
+      <ellipse cx="0" cy="-6" rx="3" ry="6" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-6" rx="3" ry="6" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-6" rx="3" ry="6" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-6" rx="3" ry="6" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="2.2" fill="#ffc6d4"/>
+  </g>
+
+  <!-- session -->
+  <g font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16">
+
+    <text x="28" y="80" opacity="0">
+      <tspan fill="#ff8fb1">x@tsunderick.space</tspan><tspan fill="#a7abde"> ~ </tspan><tspan fill="#ffc6d4">% </tspan><tspan fill="#f0eaed">./introduction.sh --pretty</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="107" opacity="0">
+      <tspan fill="#f0eaed">  booting tsunderick OS </tspan><tspan fill="#626583">........................</tspan><tspan fill="#a7abde"> ok</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="134" opacity="0">
+      <tspan fill="#f0eaed">  loading sakura palette </tspan><tspan fill="#626583">.......................</tspan><tspan fill="#a7abde"> ok</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="161" opacity="0">
+      <tspan fill="#f0eaed">  mounting /dev/dreams </tspan><tspan fill="#626583">.........................</tspan><tspan fill="#a7abde"> ok</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="215" font-size="19" opacity="0">
+      <tspan fill="#ff8fb1">  Greetings, mortal ♥</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="269" opacity="0">
+      <tspan fill="#f0eaed">  MSc Software Engineering </tspan><tspan fill="#626583">.....................</tspan><tspan fill="#a7abde"> done</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="296" opacity="0">
+      <tspan fill="#f0eaed">  indie studio @ Ashfall </tspan><tspan fill="#626583">.......................</tspan><tspan fill="#ffc6d4"> building</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="323" opacity="0">
+      <tspan fill="#f0eaed">  Amazon / Seattle </tspan><tspan fill="#626583">.............................</tspan><tspan fill="#da9fdc"> chapter closed</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="350" opacity="0">
+      <tspan fill="#f0eaed">  Cd. Juárez &lt;-&gt; El Paso </tspan><tspan fill="#626583">.......................</tspan><tspan fill="#dcc1eb"> home</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.7s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="377" opacity="0">
+      <tspan fill="#f0eaed">  friends &amp; cool ideas </tspan><tspan fill="#626583">.........................</tspan><tspan fill="#ff9fb2"> always open</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="4.1s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <text x="28" y="431" opacity="0">
+      <tspan fill="#ff8fb1">x@tsunderick.space</tspan><tspan fill="#a7abde"> ~ </tspan><tspan fill="#ffc6d4">% </tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.35s" fill="freeze"/>
+    </text>
+
+    <!-- eternal cursor -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.35s" fill="freeze"/>
+      <rect x="250" y="416" width="9" height="18" rx="1.5" fill="#ff8fb1">
+        <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.06s" begin="5.05s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+  </g>
+</svg>

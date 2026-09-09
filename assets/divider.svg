@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="20" viewBox="0 0 800 20" role="img">
+  <title>section divider</title>
+  <defs>
+    <linearGradient id="sakura" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8fb1" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#f694be" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#da9fdc" stop-opacity="1"/>
+      <stop offset="0.65" stop-color="#f694be" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ff8fb1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="9" width="800" height="2" rx="1" fill="url(#sakura)"/>
+  <g fill="#ff8fb1">
+    <circle cx="395.5" cy="10" r="2.6"/>
+    <circle cx="404.5" cy="10" r="2.6"/>
+    <circle cx="400" cy="5.5" r="2.6"/>
+    <circle cx="400" cy="14.5" r="2.6"/>
+  </g>
+  <circle cx="400" cy="10" r="1.7" fill="#ffc6d4"/>
+</svg>
