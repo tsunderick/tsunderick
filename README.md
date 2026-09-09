@@ -9,7 +9,7 @@
   Welcome to my corner of the void~ 🌸
 </p>
 
-### 🌸 about me
+### 🧉 Keep it simple
 
 - [x] Graduated with an MSc in Software Engineering
 - [ ] Opening my indie game dev studio [Ashfall](https://ashfallsoftware.com) — currently building our first video game ⚔️
