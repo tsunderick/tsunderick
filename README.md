@@ -6,12 +6,6 @@
 
 <h2 align="center">( ꈍᴗꈍ)❣️ Greetings Mortal</h2>
 
-- [x] Graduated with an MSc in Software Engineering
-- [ ] Opening my indie game dev studio [Ashfall](https://ashfallsoftware.com) — currently building our first video game ⚔️
-- [x] ~Worked for Amazon, lived in Seattle~ — chapter closed
-- [x] Born and raised in Ciudad Juárez, Chihuahua, México ⇄ El Paso, Texas
-- [x] Always up for connecting, contributing and learning new stuff — cool idea or just wanna chat? Send me a message!
-
 <p align="center">
   <img src="sailor_wet.png" width="420" alt="Oh, my new outfit is all wet!" title="Oh, my new outfit is all wet!" />
 </p>
