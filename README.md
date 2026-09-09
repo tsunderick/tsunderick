@@ -1,7 +1,7 @@
 ```console
 #!/bin/bash
-$ me@erick-garcia.com: chmod +x ~/path/to/my/introduction/introduction.sh
-$ me@erick-garcia.com: ~/./path/to/my/introduction/introduction.sh &> stdout
+$ x@tsunderick.space > chmod +x ~/path/to/my/introduction/introduction.sh
+$ x@tsunderick.space > ~/./path/to/my/introduction/introduction.sh &> stdout
 ```
 
 > `... printing introduction`
@@ -11,7 +11,8 @@ $ me@erick-garcia.com: ~/./path/to/my/introduction/introduction.sh &> stdout
 Hello my name is [@tsunderick](https://github.com/tsunderick).
 
 * [x] Graduate with a Ms in Software Engineering;
-* [x] Currently working for Amazon and living in Seattle
+* [ ] Opened my indie game dev studio [Ashfall](https://ashfallsoftware.com), and we are working on our first video game
+* [x] ~Working for Amazon and living in Seattle~
 * [x] Born and raised in Ciudad Juárez, Chihuahua, Mexico / El Paso Texas;
 * [x] Interested in connecting, contributing, and learning new stuff, so if you have a cool idea or just want to chat, send me a messagge
 
