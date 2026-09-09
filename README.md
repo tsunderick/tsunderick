@@ -29,17 +29,17 @@
 
 <!-- ✿ auto-generated nightly by the stats workflow (lines of code across my repos) — hands off, mortal ✿ -->
 
-|    | Language | Share |
-|:--:|:---------|:------|
-| 🥇 | Rust | 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸 35.4% |
-| 🥈 | TypeScript | 🌸🌸🌸🌸🌸⬜⬜⬜⬜⬜ 18.5% |
-| 🥉 | Python | 🌸🌸🌸🌸⬜⬜⬜⬜⬜⬜ 14.5% |
-| 🌸 | JavaScript | 🌸🌸🌸⬜⬜⬜⬜⬜⬜⬜ 11.7% |
-| 🌸 | Java | 🌸🌸⬜⬜⬜⬜⬜⬜⬜⬜ 6.6% |
-| 🌸 | Shell | 🌸🌸⬜⬜⬜⬜⬜⬜⬜⬜ 5.3% |
-| 🌸 | GDScript | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.6% |
-| 🌸 | Lua | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.6% |
-|    | other 🌱 | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.8% |
+|    | Language | Lines of code | Share |
+|:--:|:---------|----------:|:------|
+| 🥇 | Rust | 63.7K | 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸 35.4% |
+| 🥈 | TypeScript | 33.3K | 🌸🌸🌸🌸🌸⬜⬜⬜⬜⬜ 18.5% |
+| 🥉 | Python | 26.0K | 🌸🌸🌸🌸⬜⬜⬜⬜⬜⬜ 14.5% |
+| 🌸 | JavaScript | 21.0K | 🌸🌸🌸⬜⬜⬜⬜⬜⬜⬜ 11.7% |
+| 🌸 | Java | 11.9K | 🌸🌸⬜⬜⬜⬜⬜⬜⬜⬜ 6.6% |
+| 🌸 | Shell | 9.6K | 🌸🌸⬜⬜⬜⬜⬜⬜⬜⬜ 5.3% |
+| 🌸 | GDScript | 6.4K | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.6% |
+| 🌸 | Lua | 3.0K | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.6% |
+|    | other 🌱 | 5.0K | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.8% |
 <!-- ✿ languages:end ✿ -->
 
 ![Language Stats](github-stats/leaderboard_by_lines.png)
