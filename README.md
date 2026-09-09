@@ -37,10 +37,6 @@
 |    | other 🌱 | 5.0K | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.8% |
 <!-- ✿ languages:end ✿ -->
 
-![Language Stats](github-stats/leaderboard_by_lines.png)
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ## 📫 Ping Me
 
 <p align="center">
