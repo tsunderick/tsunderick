@@ -4,11 +4,6 @@
   <img src="assets/terminal.svg" width="720" alt="terminal session: ./introduction.sh --pretty" />
 </p>
 
-<h2 align="center">( ꈍᴗꈍ)❣️ Greetings Mortal</h2>
-
-<p align="center">
-  <img src="sailor_wet.png" width="420" alt="Oh, my new outfit is all wet!" title="Oh, my new outfit is all wet!" />
-</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -37,6 +32,10 @@
 <!-- ✿ languages:end ✿ -->
 
 <h2 align="center">📫 Ping Me</h2>
+
+<p align="center">
+  <img src="sailor_wet.png" width="420" alt="Oh, my new outfit is all wet!" title="Oh, my new outfit is all wet!" />
+</p>
 
 
 <p align="center">
