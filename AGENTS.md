@@ -52,9 +52,11 @@ The workflow config:
   `tsunderelkasten-pipboy`, whose committed `.obsidian/plugins/*/main.js`
   bundles previously flooded the stats with ~50MB of third-party JS),
   template repos (`ci-skeleton-3` with 1.8MB of PHP, `Sails.js-template`),
-  and TypeScript-heavy site repos (`quartz-tsunderick-themes`, ~80%
-  vendored Quartz framework source; `blog.tsunderick.space`, ~400KB of
-  generated test fixtures counted as code)
+  TypeScript-heavy site repos (`quartz-tsunderick-themes`, ~80% vendored
+  Quartz framework source; `blog.tsunderick.space`, ~400KB of generated
+  test fixtures counted as code), and the `dotfiles` repo
+  (config-as-code — nvim/hypr Lua and machine setup scripts, not
+  representative of project work)
 
 The action then:
 
