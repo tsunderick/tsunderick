@@ -4,11 +4,6 @@
 
 <h1 align="center">Greetings mortal&nbsp; ( ꈍᴗꈍ)❣️</h1>
 
-<p align="center">
-  I'm <a href="https://github.com/tsunderick">@tsunderick</a> — software engineer turned indie game dev.<br/>
-  Welcome to my corner of the void~ 🌸
-</p>
-
 ### 🧉 Keep it simple
 
 - [x] Graduated with an MSc in Software Engineering
