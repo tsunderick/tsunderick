@@ -26,10 +26,20 @@
 ## 🌸 Languages I Write
 
 <!-- ✿ languages:start ✿ -->
-<!-- ✿ auto-generated nightly by the stats workflow — hands off, mortal ✿ -->
+
+<!-- ✿ auto-generated nightly by the stats workflow (lines of code across my repos) — hands off, mortal ✿ -->
+
 |    | Language | Share |
-|:--:|----------|:-----:|
-| 🌱 | *splicing sakura petals…* | *first bloom on next workflow run* |
+|:--:|:---------|:------|
+| 🥇 | Rust | 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸 35.4% |
+| 🥈 | TypeScript | 🌸🌸🌸🌸🌸⬜⬜⬜⬜⬜ 18.5% |
+| 🥉 | Python | 🌸🌸🌸🌸⬜⬜⬜⬜⬜⬜ 14.5% |
+| 🌸 | JavaScript | 🌸🌸🌸⬜⬜⬜⬜⬜⬜⬜ 11.7% |
+| 🌸 | Java | 🌸🌸⬜⬜⬜⬜⬜⬜⬜⬜ 6.6% |
+| 🌸 | Shell | 🌸🌸⬜⬜⬜⬜⬜⬜⬜⬜ 5.3% |
+| 🌸 | GDScript | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.6% |
+| 🌸 | Lua | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.6% |
+|    | other 🌱 | 🌸⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.8% |
 <!-- ✿ languages:end ✿ -->
 
 ![Language Stats](github-stats/leaderboard_by_lines.png)
