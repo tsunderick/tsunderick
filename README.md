@@ -16,7 +16,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🌸 Languages I Write
 <h2 align="center">Languages I Write</h2>
 
 
