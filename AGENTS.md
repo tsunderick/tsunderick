@@ -48,15 +48,24 @@ The workflow config:
 
 - `extra_repos: "Ashfall-Software/brews-n-battles"` — the owner's Godot
   game (private org repo, primary language GDScript)
-- `exclude_repos` — Obsidian vaults (`tsunderelkasten`,
-  `tsunderelkasten-pipboy`, whose committed `.obsidian/plugins/*/main.js`
-  bundles previously flooded the stats with ~50MB of third-party JS),
-  template repos (`ci-skeleton-3` with 1.8MB of PHP, `Sails.js-template`),
-  TypeScript-heavy site repos (`quartz-tsunderick-themes`, ~80% vendored
-  Quartz framework source; `blog.tsunderick.space`, ~400KB of generated
-  test fixtures counted as code), and the `dotfiles` repo
-  (config-as-code — nvim/hypr Lua and machine setup scripts, not
-  representative of project work)
+- `exclude_repos` —
+  - Obsidian vaults (`tsunderelkasten`, `tsunderelkasten-pipboy`, whose
+    committed `.obsidian/plugins/*/main.js` bundles previously flooded
+    the stats with ~50MB of third-party JS)
+  - template repos (`ci-skeleton-3` with 1.8MB of PHP, `Sails.js-template`)
+  - website repos (`quartz-tsunderick-themes` and
+    `7th-heaven.tsunderick.space` — both ~80% vendored Quartz framework
+    source; `blog.tsunderick.space` — ~400KB of generated test fixtures
+    counted as code; `digitalgarden` — Eleventy/Nunjucks template code;
+    `garciaErick.github.io` — old GitHub Pages theme scripts; and the
+    content-only sites `advanced-japanese-a`, `blog`,
+    `family.tsunderick.space`, `tsunderick.space`)
+  - the `dotfiles` repo (config-as-code — nvim/hypr Lua and machine
+    setup scripts, not representative of project work)
+
+  `cloudflare-workers-tsunderick-space` is deliberately **kept** — it's
+  hand-written Workers code and the only genuine TypeScript site-adjacent
+  repo.
 
 The action then:
 
