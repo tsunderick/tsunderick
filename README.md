@@ -31,7 +31,7 @@
 </div>
 <!-- ✿ languages:end ✿ -->
 
-<h2 align="center">📫 Ping Me</h2>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
   <img src="sailor_wet.png" width="420" alt="Oh, my new outfit is all wet!" title="Oh, my new outfit is all wet!" />
